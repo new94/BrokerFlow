@@ -1,0 +1,17 @@
+bin/
+obj/
+out/
+*.user
+*.suo
+.vs/
+.vscode/
+.idea/
+*.swp
+.DS_Store
+Thumbs.db
+appsettings.Development.json
+appsettings.Local.json
+*.log
+logs/
+.env
+.env.*
